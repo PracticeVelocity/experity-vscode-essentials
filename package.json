@@ -4,6 +4,11 @@
   "description": "Essential VSCode extensions for all Experity developers",
   "version": "0.0.5",
   "publisher": "chris-bell",
+  "icon": "experity.png",
+  "galleryBanner": {
+    "color": "#1a2954",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CurrrBell/experity-vscode-essentials.git"
