@@ -37,6 +37,7 @@
     "natewallace.angular2-inline",
     "eg2.vscode-npm-script",
     "aaron-bond.better-comments",
-    "christian-kohler.path-intellisense"
+    "christian-kohler.path-intellisense",
+    "sibiraj-s.vscode-scss-formatter"
   ]
 }
