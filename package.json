@@ -30,6 +30,8 @@
     "eg2.tslint",
     "angular.ng-template",
     "natewallace.angular2-inline",
-    "eg2.vscode-npm-script"
+    "eg2.vscode-npm-script",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense"
   ]
 }
