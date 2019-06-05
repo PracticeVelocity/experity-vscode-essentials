@@ -1,7 +1,7 @@
 {
   "name": "experity-vscode-essentials",
   "displayName": "Experity VSCode Essentials",
-  "description": "Essential VSCode extensions for all Experity developers",
+  "description": "Essential VSCode extensions for Experity developers",
   "version": "0.1.2",
   "publisher": "chris-bell",
   "icon": "experity.png",
