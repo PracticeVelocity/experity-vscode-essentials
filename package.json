@@ -38,6 +38,7 @@
     "eg2.vscode-npm-script",
     "aaron-bond.better-comments",
     "christian-kohler.path-intellisense",
-    "sibiraj-s.vscode-scss-formatter"
+    "sibiraj-s.vscode-scss-formatter",
+    "github.vscode-pull-request-github"
   ]
 }
