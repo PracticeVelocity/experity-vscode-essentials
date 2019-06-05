@@ -2,7 +2,7 @@
   "name": "experity-vscode-essentials",
   "displayName": "Experity VSCode Essentials",
   "description": "Essential VSCode extensions for all Experity developers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "chris-bell",
   "repository": {
     "type": "git",
