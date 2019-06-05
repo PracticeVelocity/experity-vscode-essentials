@@ -14,6 +14,9 @@
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "Experity"
+  ],
   "extensionPack": [
     "cyrilletuzi.angular-schematics",
     "amazonwebservices.aws-toolkit-vscode",
