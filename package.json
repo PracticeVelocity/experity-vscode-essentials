@@ -1,0 +1,44 @@
+{
+  "name": "experity-vscode-essentials",
+  "displayName": "Experity VSCode Essentials",
+  "description": "Essential VSCode extensions for Experity developers",
+  "version": "0.1.2",
+  "publisher": "chris-bell",
+  "icon": "experity.png",
+  "galleryBanner": {
+    "color": "#1a2954",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CurrrBell/experity-vscode-essentials.git"
+  },
+  "engines": {
+    "vscode": "^1.34.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "Experity"
+  ],
+  "extensionPack": [
+    "cyrilletuzi.angular-schematics",
+    "amazonwebservices.aws-toolkit-vscode",
+    "ms-vscode.csharp",
+    "streetsidesoftware.code-spell-checker",
+    "msjsdiag.debugger-for-chrome",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "ms-vsliveshare.vsliveshare",
+    "eg2.tslint",
+    "angular.ng-template",
+    "natewallace.angular2-inline",
+    "eg2.vscode-npm-script",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "sibiraj-s.vscode-scss-formatter",
+    "github.vscode-pull-request-github"
+  ]
+}
